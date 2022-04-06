@@ -1,0 +1,8 @@
+Valid syntax
+| Name	| Val	| Type	| Scope	| Size	| Line
+------------------------------------------------
+| a	| NULL	| INT	| 1	| 4	| 3
+| b	| NULL	| INT	| 1	| 4	| 4
+| c	| NULL	| FLOAT	| 1	| 4	| 5
+| d	| NULL	| DOUBLE| 1	| 8	| 7
+------------------------------------------------

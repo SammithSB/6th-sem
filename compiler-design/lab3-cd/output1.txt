@@ -1,0 +1,9 @@
+Error : Variable b was redeclared at line number : 8 
+Valid syntax
+| Name	| Val	| Type	| Scope	| Size	| Line
+------------------------------------------------
+| a	| 2	| INT	| 1	| 4	| 7
+| b	| NULL	| FLOAT	| 1	| 4	| 4
+| c	| NULL	| DOUBLE| 1	| 8	| 5
+| d	| NULL	| CHAR	| 1	| 1	| 6
+------------------------------------------------

@@ -1,0 +1,8 @@
+Error : Invalid assignment to variable y of type INT at line number : 6 
+Valid syntax
+| Name	| Val	| Type	| Scope	| Size	| Line
+------------------------------------------------
+| x	| 4.5	| FLOAT	| 1	| 4	| 9
+| y	| NULL	| INT	| 1	| 4	| 4
+| z	| NULL	| INT	| 2	| 4	| 13
+------------------------------------------------
