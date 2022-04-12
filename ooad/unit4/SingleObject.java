@@ -1,4 +1,3 @@
-package unit4;
 
 public class SingleObject {
     // create a single onject
@@ -16,6 +15,5 @@ public class SingleObject {
     public void showMessage() {
         System.out.println("Hello World");
     }
-
 
 }
